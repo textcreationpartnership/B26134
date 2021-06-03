@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Commune Concilium tentum in Camera Guild-hall civitatis London, die Sabbati, vicesimo primo die Februarii, annoque Domini, 1673, anno regni regis Caroli Secundi ... an act for regulation of the brokers upon the Royal Exchange, London.</title>
+            <author>City of London (England).</author>
+         </titleStmt>
+         <extent>Approx. 11KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B26134</idno><idno type="EEBO-CITATION">24026295</idno>
+  <idno type="VID">205679</idno>
+  <idno type="EEBO-PROQUEST">2240892953</idno>
+  
+            <idno type="STC">Wing L2854L</idno>
+            <idno type="OCLC">24026295</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B26134)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 205679)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1705:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Commune Concilium tentum in Camera Guild-hall civitatis London, die Sabbati, vicesimo primo die Februarii, annoque Domini, 1673, anno regni regis Caroli Secundi ... an act for regulation of the brokers upon the Royal Exchange, London.</title>
+                  <author>City of London (England).</author>
+               </titleStmt>
+               <extent>1 broadside.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Andrew Clark ...,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1673]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: stained, with slight loss of text.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Royal Exchange (London, England)</term>
+               <term type="geographic_name">London (England) --  History --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:205679:1"/>
+            <pb facs="tcp:205679:2"/>
+            <head>
+               <figure>
+                  <figDesc>arms</figDesc>
+               </figure> Commune Concilium tentum in Camera <hi>Guild-Hall</hi> Civitatis <hi>London,</hi> die Sabbati, vicesimo primo die <hi>Februarii,</hi> Annoque Domini, 1673. Anno Regni Regis CAROLI Secundi, <hi>Angliae,</hi> &amp;c. vicesimo sexto, coram <hi>Willielmo Hooker</hi> Milite, Majore Civitatis <hi>London, Thoma Aleyn</hi> Milite &amp; Baronetto, <hi>Johanne Lawrence, Willielmo Peake, Willielmo Turner, Ricardo Ford, Georgio Waterman,</hi> &amp; <hi>Dionysio Gawden</hi> Militibus, <hi>Johanne Forth</hi> Armigero, &amp; <hi>Roberto Clayton</hi> Milite, Aldermannis, <hi>Henrico Tulse</hi> Milite, Aldermanno, uno Vicecomitum Civitatis <hi>London;</hi> necnon majore parte Communiariorum de Communi Concilio praedictae Civitatis tunc &amp; ibidem assemblat.</head>
+            <head>
+               <hi>An Act for Regulation of the Brokers upon the</hi> Royal Exchange, <hi>LONDON.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">W</seg>HEREAS by antient Custom of this City of <hi>London,</hi> and by divers Charters of se<g ref="char:EOLhyphen"/>veral Kings of this Realm, confirmed in Parliament, no Person or Persons ought to use or exercise Brokage within the said City and Liberties thereof, unless he or they were thereunto admitted, and were likewise sworn faithfully and honestly to use and exercise the same, before the Lord Maior and Aldermen of the same City: Yet notwithstanding of late times very many Persons contrary to the said Custom and Charters confirmed as aforesaid, have taken upon themselves, and do daily take upon themselves, the Vse and Exercise of the said Office and Imployment, without any lawful Authority, not being first admitted and sworn as aforesaid, whereby <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>anifold Evils and Inconveniences have ensued, and do daily happen, both to the Brokers duly admitted and sworn, and also to Merchants, Traders, Owners of Shipping and Mariners, between whom such Brokers not admitted have negotiated and do deal; whilest they remain free and loose from that Oath and Obligation for their faithful and honest demeanor in the said Imployment, which is taken and entred into by the lawful Brokers, at their Admittance into the said Office. For remedy whereof, and for the better eschew<g ref="char:EOLhyphen"/>ing and preventing all usurious Contracts and Bargains, false Chevesance and other corrupt Devices and crafty Deceits which have been invented, devised and practised by the great Num<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er and Multitude of such common Brokers both <hi>English</hi> and Aliens, not admitted, sworn o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>on<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> as aforesaid; Be it Enacted, Ordained and Established by the Right Honourable the Lord Maior, the Aldermen and Commons in this Common Council assem<g ref="char:EOLhyphen"/>bled, and by the Authority of the same, That no Person or Persons <hi>English</hi> or Alien, free of the City of <hi>London</hi> or Foreiner from the Liberties thereof, after the five and twentieth day of the Mouth of <hi>March</hi> now next coming, shall take upon him or them the Vse and Exercise of the Office of a Broker or Brokage between any manner of Persons within the said City of <hi>London</hi> or Liberties thereof, nor shall presume as a Broker or Solicitor to make any man<g ref="char:EOLhyphen"/>ner of Bargain or Bargains, Contract or Contracts, in or relating to the Art or Trade of Merchandizing by Ex<g ref="char:EOLhyphen"/>change, or for letting of Ships to Freight or Hire, or otherwise howsoever, between any manner of Persons within the said City or Liberties thereof, unless he or they be or shall be first admitted and sworn before the Maior and Aldermen of this City of <hi>London</hi> for the time being, or before the said Maior and the more part of the said Aldermen for the time being, a common Broker to exercise Brokage within the said City and Liberties thereof, and there be<g ref="char:EOLhyphen"/>come bound to the Chamberlain of the said City for the time being, with good and sufficient Sureties for him or them, in the penal Sum of one Hundred Pounds, conditioned for the due Execution of the same Office, upon pain of forfeiting the Sum of Twenty Pounds of lawful money of <hi>England</hi> for every time that such Persons or Persons shall offend, commit or do contrary to the purport, true intent and effect of this present Act.</p>
+            <p>And be it further Enacted by the Authority aforesaid, That no Person or Persons whatsoever shall, after the said five and twentieth day of <hi>March</hi> now next coming willingly and knowingly employ or set on work any Person or Per<g ref="char:EOLhyphen"/>sons as a Broker to make any Bargain with any Person or Persons within this City of <hi>London</hi> or the Liberties there<g ref="char:EOLhyphen"/>of, unless such Person or Persons so employed or to be employed as a Broker, be or shall be first admitted and sworn before the Maior and Aldermen of the said City for the time being, a common Broker, and be bound as aforesaid, upon pain of forfeiting the Sum of Five Pounds of lawful money of <hi>England,</hi> for every time that such person or persons shall offend therein.</p>
+            <p>And further to prevent all pretence that the Persons are not known who are duly admitted and sworn Brokers, and that it may appear to the Merchants or others who shall use or employ any Brokers, that the same Brokers are duly admitted and sworn to exercise the same Office, Be it Enacted by the Authority aforesaid, That the Names and Surnames of all such Persons who are and shall be duly admitted and sworn Brokers as aforesaid, be speedily Printed or fairly Written in a Table, and published by being hung up at the Entrance of the <hi>Royal Exchange,</hi> and from time to time there be continued, and that the same Brokers, who are and shall be so duly admitted and sworn, do bear about with them a Medal of Silver with the City Arms to hang before their Breasts, as also do from time to time carry along with them Authentick Copies under the Seal of the Maioralty of this City, of their several Ad<g ref="char:EOLhyphen"/>mittances into the said Offices or Imployments, for the better satisfaction of all persons who are or shall be con<g ref="char:EOLhyphen"/>cerned to know the same.</p>
+            <p>And be it further Enacted by the Authority aforesaid, That all and every the Pains, Penalties and Forfeitures in and by this Act of Common Council limited and appointed, the Charge of the Suit for the recovery thereof being first deducted, shall be divided into two equal moieties or half parts, whereof one equal moiety or half part shall be to the use of the Hospitals and Prisons belonging to this City, to be distributed as the Lord Maior and Court of Al<g ref="char:EOLhyphen"/>dermen for the time being shall direct and appoint; and the other equal moiety or half part thereof shall be to the use of such Person or Persons who shall prosecute such Offence: And that all <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> every such Peins, and Penalties, and Forfeitures shall be recovered by Action of Debt, Bill, Plaint or Information, to be commenced and prosecuted in the name of the Chamberlain of this City for the time being, in the Kings Majesty's Court holden before the Maior and Aldermen of the City of <hi>London</hi> in the Chamber of <hi>Guild-Hall</hi> of the same City, in all which Actions and Suits to be commenced and prosecuted by virtue of this present Act against the Offender or Offenders, the said Chamber<g ref="char:EOLhyphen"/>lain in case he shall recover by Verdict or otherwise, shall be allowed his reasonable Costs of Suit to be expended in and about the Prosecution thereof, in all which Actions, and Suits, and Prosecutions so to be commenced and prose<g ref="char:EOLhyphen"/>cuted, no Essoign or Wager of Law shall be admitted or allowed for the Defendant.</p>
+            <p>And it is further Enacted by the Authority aforesaid, That the Number of the said Brokers to be so admitted shall not exceed the Number of One Hundred Persons born within this Kingdom, and the Number of Twelve Aliens born, being Members of the <hi>Dutch</hi> and <hi>French</hi> Congregations, and Six others being Aliens born, as by the Court held before the Lord Maior and Aldermen from time to time shall be thought meet and convenient.</p>
+            <p>And be it further Enacted by the Authority aforesaid, That every Person and Persons that from and after the five and twentieth day of <hi>March</hi> next ensuing, shall use and exercise the said Office and Imployment of a Broker in the cases before-mentioned, during such time as he or they shall use or exercise that Office or Imployment, shall not at any time contract for or buy any Wares or Merchandizes within the said City or Liberties thereof, for the Vse or upon the Account of any other Person or Persons, but that he shall first b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing the Buyer and Seller thereof, or their sufficient Deputy or Deputies or Servant together, or shall have a sufficient Warrant or Authority in Writing from such Buyer and Seller, authorizing him to make such Bargain or Sale, or shall otherwise make a just and rightful Bargain between them, upon pein that for every time that he or they shall offend therein, shall for every such Offence forfeit the Sum of Five Pounds to be recovered and distributed as aforesaid.</p>
+            <p>And for the preventing and avoiding of any Differences or Controversies that may hereafter arise between Buyers and Sellers, by reason of any Contract or Bargain that shall be made by such that do or shall use the said Office or Imployment of a Broker, Be it Enacted and Ordained by the Authority aforesaid, That every Person and Persons that from and after the five and twentieth day of <hi>March</hi> next ensuing, shall use or exercise the Office or Imployment of a common Broker, for any of the purposes in this Act mentioned shall cause all such Contracts and Bargains, as he or they, at any time during his or their Exercise of the said Office, shall make between Party and Party, to be truly written in a Book ready to be shewed to the Lord Maior and Aldermen of this City, as oft as it shall be requi<g ref="char:EOLhyphen"/>red, for the testimony and declaration of the truth of such Contract or Bargain, upon pein that for every time that he or they shall offend therein, shall forfeit the Sum of Five Pounds, to be recovered and distributed as aforesaid.</p>
+            <closer>
+               <signed>Wagstaffe.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed by <hi>Andrew Clark,</hi> Printer to the Honourable City of <hi>LONDON.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
